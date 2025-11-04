@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是 [你的名字]</h1>
+<h1 align="center">👋 你好，我是 零微</h1>
 
 <p align="center">
   <a href="https://github.com/lingwei888"><img src="https://img.shields.io/github/followers/lingwei888?label=Follow&style=social" alt="GitHub 关注者"></a>
@@ -48,16 +48,16 @@
 
 ### 📊 GitHub 统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=blue-green&hide_border=true" width="48%" alt="GitHub 统计">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=blue-green&hide_border=true" width="40%" alt="语言统计">
+  <img src="https://github-readme-stats.vercel.app/api?username=lingwei888&show_icons=true&theme=blue-green&hide_border=true" width="48%" alt="GitHub 统计">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingwei888&layout=compact&theme=blue-green&hide_border=true" width="40%" alt="语言统计">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=blue&hide_border=true&area=true" alt="活动图表">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lingwei888&theme=blue&hide_border=true&area=true" alt="活动图表">
 </p>
 
 ---
 
 <p align="center">
-  <span>用代码改变世界，从一行一行开始 🌟</span>
+  <span>ExitCode-退出传统代码，跨越新时代-极客跃迁🌟</span>
 </p>
