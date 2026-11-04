@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是 零微</h1>
+<h1 align="center">Hello,I am LingWei,A CaiCai</h1>
 
 
 ---
@@ -12,7 +12,7 @@
   - 团体程序设计天梯赛 个人国家三等奖
   - CCPC全国邀请赛（秦皇岛赛区）银奖
   - ICPC全国邀请赛（沈阳赛区）铜奖
-  - 蓝桥杯 河北省一等奖  
+  - CCPC河北省 金奖
 
 ---
 
